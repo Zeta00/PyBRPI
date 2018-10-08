@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>Bithumb Realtime Price Information.png</file>
+  </qresource>
+</RCC>
